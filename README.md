@@ -1,5 +1,5 @@
 
-This project implements a heuristic based on **Max-H** to solve assortment optimization problems under the **Nested Logit Model**. The simulation evaluates the performance of the heuristic against:  
+This project implements a heuristic based on **H-max** to solve assortment optimization problems under the **Nested Logit Model**. The simulation evaluates the performance of the heuristic against:  
 
 1. **Optimal solutions** derived in the following papers:  
    - *Assortment Optimization Under Variants of the Nested Logit Model* (focus on the standard model with dissimilarity parameters at most one; up to the end of Section 4).  
